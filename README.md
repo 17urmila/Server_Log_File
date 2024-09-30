@@ -1,8 +1,4 @@
-# Server_Log_File
-
-## Colab Notebook Link
-
-https://colab.research.google.com/drive/1D20jdV8dXr9skJXIOWHXZ44ml9TQIchp#scrollTo=WRxL8ORkM7jm
+# Project Title : Server Log Data Extraction and User History Database Update
 
 ## Technologies Used
 
